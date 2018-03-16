@@ -1,0 +1,71 @@
+body{
+  background-image: url("../img/fondo1.jpg");
+  background-size: contain;}
+
+.barra{
+background-color: #E0FCFF;
+opacity: .90;
+}
+
+.fondo{
+  background-color: #E0FCFF;
+}
+
+.logo{
+
+}
+
+p{
+  font-family: sans-serif;
+  font-size: 1em;
+}
+
+.receta{
+  margin: 10px;
+}
+
+ .comentar{
+  
+   margin: 1rem;
+ }
+.menu{
+  margin-top: 15px;
+}
+.publicacion{
+  padding: 10px;
+}
+
+.publicaciones{}
+
+  h5{
+    margin: 0 auto;
+    padding-top: 10px}
+
+h6{
+margin: 0 auto;
+padding: 10px;
+}
+
+.fecha{
+color: #00BBF0;
+font-size: 1rem;
+padding-right: 10px;
+}
+.info{
+  padding-top: 1rem;
+}
+
+.favoritos{
+  margin: 5px;
+  padding: 5px;
+}
+
+.fondo12{
+  background: #970747;
+  header: 600px;
+  opacity: .50;
+}
+
+.historial{
+  font-size: 10px;
+}
